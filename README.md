@@ -2,7 +2,7 @@
 The latest version of email spam. Unlimited, spam up to 20 email accounts.
 
 # how to run it:
-$git clone https://github.com/ramahmdr/C4mail-lite
+$git clone https://github.com/rickysesi/Spam-mail
 
 $cd C4mail-lite
 
